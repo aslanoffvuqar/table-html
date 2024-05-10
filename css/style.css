@@ -1,0 +1,23 @@
+#text {
+    width: 100%;
+    border-collapse: collapse;
+border: 1px solid black;
+}
+
+#text th {
+    background-color: green;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+    color: white;
+
+}
+
+.first-line {
+    background-color: #f2f2f2;
+
+}
+
+#text tr td:hover {
+    background-color: #ddd; 
+}
